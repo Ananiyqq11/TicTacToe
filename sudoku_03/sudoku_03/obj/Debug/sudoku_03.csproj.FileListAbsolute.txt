@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\sudoku_03\sudoku_03\bin\Debug\sudoku_03.exe.config
+C:\Users\user\source\repos\sudoku_03\sudoku_03\bin\Debug\sudoku_03.exe
+C:\Users\user\source\repos\sudoku_03\sudoku_03\bin\Debug\sudoku_03.pdb
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.Properties.Resources.resources
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.csproj.GenerateResource.cache
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.exe
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.pdb
+C:\Users\user\source\repos\sudoku_03\sudoku_03\obj\Debug\sudoku_03.TTT.resources
